@@ -88,3 +88,5 @@ Automate Setup with Scripts: For scaling and automation, consider using AWS Clou
 Security Best Practices: Ensure that security groups are correctly configured to allow only necessary traffic. Regularly update and patch the instance.
 Instance Management: Monitor instance usage. Start and stop instances as needed to save costs.
 Scripting and Automation: Automate repetitive tasks using scripts to reduce manual intervention and potential errors.
+
+hence by following above steps we can complete aws setup....

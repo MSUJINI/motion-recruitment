@@ -91,3 +91,5 @@ Cost Management:
 
 Monitor resource usage and set up alerts to avoid unexpected charges.
 Leverage Azure’s free tier and reserved instances for cost savings where applicable.
+
+hence by following above steps we can complete azure setup...

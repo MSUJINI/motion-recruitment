@@ -79,3 +79,5 @@ Use Identity and Access Management (IAM) to control permissions and access.
 Cost Management:
 Monitor your usage through the Google Cloud Console to avoid unexpected charges.
 Take advantage of the free tier for eligible resources.
+
+Hence by following above procedure we can complete gcp setup...
